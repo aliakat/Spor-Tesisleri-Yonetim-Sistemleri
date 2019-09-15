@@ -7,3 +7,4 @@ Spor Tesisleri Yönetim Sistemi ile üyelerinizin kontrolünü ve üye takibi ya
 Projede giriş sayfasında yönetici ve kullanıcıların giriş paneli bulunacaktır. 
 Yönetici girişinden sonra yönetici paneli açılıp sayfanın sol sütununda üye takip, abonelik takip, zaman takibi gibi yönetici modülleri bulunacaktır. Sayfanın diğer kısımlarında üye sayısı, giriş-çıkış sayıları, kasa bilgileri gibi bilgilendirme kısımları olacaktır. 
 Spor Tesisleri Yönetim Sistemi, web tasarım olarak kullanım açısından en kolay olacak şekilde tasarlanacaktır.
+
