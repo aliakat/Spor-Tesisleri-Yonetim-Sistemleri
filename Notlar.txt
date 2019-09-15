@@ -1,0 +1,20 @@
+Spor Tesisi Yönetim Sistemini Çalıştırmak İçin:
+
+Linux sunucuda php 5.3 ve üstü kurulu olmalıdır
+localhost da deniyor iseniz ; Sql dosyasını  direk phpmyadmin kullanarak oluşturduğunuz veritabanı içerisine aktarın.
+
+\include\connect.php  içinde 
+veritabanı bağlantı bilgisi:
+
+$host     = "localhost";
+$username = "root";
+$password = "";
+$db_name  = "stys";
+
+Yönetici girişi yapabilmeniz için:
+Kullanıcı adı: admin
+Şifre: admin
+
+Kulalnıcı girişi yapabilmeniz için:
+Kullanıcı adı: user
+Şifre: user
